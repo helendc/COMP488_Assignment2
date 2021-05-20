@@ -22,4 +22,4 @@ Given a data set with ~30 million records from LendingClub.com determine an inve
 > - Tested on different loan size per sub grade 
 
 # Conclusion
-Our regressions reveal that mixing “shaky” high grade loans (e.g. A4s, B3s) with sure bets (e.g. A1s) yields the highest returns.
+Our simulations reveal that choosing 5 loans in each subgrade (125 loans in total) yields better returns than choosing 20 loans in each subgrade. So we suggest investing in a few top loans from each subcategory. In other words, mixing “shaky” high grade loans (e.g. A4s, B3s) with sure bets (e.g. A1s) yields the highest returns.
